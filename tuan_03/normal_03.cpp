@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <conio.h>
 
-using namespace std;
+
 //VINAGHOST_18CTT2_FIT_KHTN
 //31 - 8 - 2018
 //Please don't copy/paste my code without permission
